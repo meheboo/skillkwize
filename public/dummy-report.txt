@@ -1,0 +1,8 @@
+SkillKwiz Dummy Report
+
+Candidate: K. Pradeep Kishor
+Skills: C#, Java, SQL
+Percentile Score: 85
+Location: Bangalore
+
+This placeholder file confirms the report/download action is connected.
